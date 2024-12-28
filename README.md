@@ -1,5 +1,6 @@
 # Jak II Hero Mode JET-Board
 Start Hero Mode with the JET-Board in your starting loadout, similar to Jak 3.
+
 Alternate version of the mod is available that gives you the JET-Board in both normal and hero mode.
 
 # OpenGoal-Mod-Base
