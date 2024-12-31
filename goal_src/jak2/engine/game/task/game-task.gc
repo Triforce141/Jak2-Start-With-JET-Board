@@ -3377,7 +3377,7 @@
             :borrow '()
             :open? #f
             :on-close #f
-            :add (game-task-node-command sub-board)
+            :add (game-task-node-command add-board)
             :description (text-id progress-missions-stadium-board1)
             )
           (new 'static 'game-task-node-info
